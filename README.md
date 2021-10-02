@@ -4,7 +4,7 @@
 
 [How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28](https://youtu.be/CkcJ9_dpjqw)
 
-<a href="https://youtu.be/xt4hrtG4t3s"><img src="http://img.youtube.com/vi/CkcJ9_dpjqw/0.jpg" alt="How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28" title="How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28" width="720" /></a>
+<a href="https://youtu.be/xt4hrtG4t3s"><img src="http://img.youtube.com/vi/CkcJ9_dpjqw/0.jpg" alt="How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28" title="How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28" width="400" /></a>
 
 # Demo
 
