@@ -20,7 +20,7 @@ Firstly, we will create a conda environment called *binance*
 ```
 conda create -n binance python=3.7.9
 ```
-Secondly, we will login to the *excel* environement
+Secondly, we will login to the *binance* environment
 ```
 conda activate binance
 ```
